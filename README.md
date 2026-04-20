@@ -14,18 +14,24 @@ It includes:
 - 📈 Interactive Dashboard
 - 🔮 Real-time Churn Prediction App
 
-[!Dashboard](1(1).png)
+📸 Application 
+📊 Dashboard
+![Dashboard](1(1).png)
 
-[!Business Questions](1(2).png)
+❓ Business Questions
+![Business Questions](1(2).png)
 
-[!Predict Customer Churn](1(3).png)
+🔮 Predict Customer Churn
+![Predict Customer Churn](1(3).png)
 
-[!Predict Customer Churn Result](1(4).png)
+📊 Prediction Result
+![Prediction Result](1(4).png)
 
-[!Insights](1(5).png)
+💡 Insights
+![Insights](1(5).png)
 
-[!About](1(6).png)
-
+ℹ️ About
+![About](1(6).png)
 ## 📂 Project Structure
 
 ```
